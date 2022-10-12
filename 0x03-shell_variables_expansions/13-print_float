@@ -1,0 +1,2 @@
+#!/bin/bank
+printf "%.2f\n" $NUM
