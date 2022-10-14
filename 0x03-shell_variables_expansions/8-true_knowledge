@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "$((128 + $TRUEKNOWLEGDE)) \n"
+echo -e $((128 + $TRUEKNOWLEGDE))\\n
